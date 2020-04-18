@@ -1,0 +1,20 @@
+{
+  "name": "Palindrome",
+  "version": "1.0.0",
+  "description": "A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kagorora/Palindrome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kagorora/Palindrome/issues"
+  },
+  "homepage": "https://github.com/Kagorora/Palindrome#readme"
+}
